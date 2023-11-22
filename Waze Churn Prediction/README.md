@@ -1,6 +1,8 @@
 # Google Advanced Data Analytics Certificate
 
-Waze User Churn Prediction Project
+## Waze User Churn Prediction Project
+
+Predict which users are more likely to churn given the data provided and which features are most important in predicting churn.
 
 ## Courses
 
